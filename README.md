@@ -15,3 +15,6 @@ Create a more stringent return policy for back-to-school season purchases.
 
 ## Visualizatons
 [Click here to see project on Tableau Public](https://public.tableau.com/views/KBerry_Sprint5Project/TheReturnsProblem?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Demo
+[Click to view presentation](https://www.loom.com/share/fbe2ea34a26c43a0b56520674aad495d?sid=9191996e-c624-40e4-8b3b-98bea20db908)
